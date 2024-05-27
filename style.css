@@ -1,0 +1,174 @@
+.header img{
+    width: 20%;
+    min-width: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+
+}
+
+body{
+    background-color: rgb(159, 232, 235);
+}
+
+.ogcont{
+    display: block;
+    background-color: #ff8c00;
+    margin-left: 450px;
+    margin-right: 450px;
+    box-shadow: 10px 10px rgb(143, 143, 143);
+    border-radius: 15px;
+}
+
+.description{
+    font-size: xx-large ;
+    display: block;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 15px;
+    background-color: teal;
+}
+
+.personalque {
+    margin-left: 5%;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    display: block;
+}
+
+.personalque input{
+    min-width: 10%;
+    height: 50px;
+    min-height: 10%;
+    width: 60%;
+    display: block;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(104, 104, 104);
+    
+}
+
+.work label{
+
+    display: block;
+}
+
+.gen label{
+    display: block;
+}
+
+.gen select{
+    min-height: 10%;
+    min-width: 10%;
+    height: 50px;
+    width: 60%;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(104, 104, 104);
+    margin-bottom: 5%;
+}
+
+.work select{
+    min-height: 10%;
+    min-width: 10%;
+    height: 50px;
+    width: 60%;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(104, 104, 104);
+    margin-bottom: 5%;
+}
+
+h2{
+    font-family: serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    display: block;
+    text-align: center;
+    background-color: teal;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+}
+.mcq{
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+
+
+
+.question1 label{
+    display: block;
+}
+
+
+
+.question2 label{
+    display: block;
+}
+
+
+
+.question3 label{
+    display: block;
+}
+
+
+
+.question4 label{
+    display: block;
+}
+
+
+h3{
+    display: block;
+    font-size: xx-large;
+    text-align: center;
+    background-color: teal;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+
+}
+
+.feedback textarea{
+    border-radius: 5px;
+    margin-left: 5%;
+    font-size: large;
+    width: 90%;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    min-width: 0%;
+    min-height: 0%;
+    box-shadow: 5px 5px  rgb(104, 104, 104);
+
+}
+
+.feedback button{
+    border-radius: 5px;
+    width: 90.8%;
+    background-color:  rgb(159, 232, 235);
+    height: 50px;
+    min-height: 0%;
+    min-width: 0%;
+    font-size: x-large;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    min-width: 0%;
+    min-height: 0%;
+    transition: 0.5s;
+    box-shadow: 5px 5px  rgb(104, 104, 104);
+
+    
+}
+
+.feedback button:hover{
+    background-color: teal;
+    color: white;
+    box-shadow: 5px 5px  rgb(104, 104, 104);
+}
